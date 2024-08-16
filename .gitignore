@@ -1,0 +1,21 @@
+**/bin/
+**/obj/
+
+# .NET artifacts
+**/*.user
+**/*.vscode
+**/*.vs
+
+# Visual Studio files
+**/*.suo
+**/*.userprefs
+**/*.sln.ide
+**/*.vscode
+
+# NLog log files (if applicable)
+**/log.txt
+**/*.log
+
+# NuGet Packages
+**/*.nupkg
+**/packages/
